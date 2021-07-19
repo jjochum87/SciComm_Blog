@@ -1,11 +1,25 @@
 ---
 layout: default
 ---
+<!-- Start Slider Area -->
+<div class="slider-area">
+  <div class="container-fluid">
+      <div class="row">
+          <div class="slider-wrapper height-250">
+              <div id="particles-js" style="background-image:url({{page.slider_image}});">
+                  <div class="slider-fixed-text">
+                       <h2>{{ page.title }}</h2>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+<!--End Slider Area -->
+
 <div class="appix-blog-content section-ptb">
   <div class="container">
       <div class="row">
-<h2 class="mb-5">{{ page.title }}</h2>
-
 {% unless page.content == '' %}
   <p>{{ page.content }}</p>
 {% endunless %}
