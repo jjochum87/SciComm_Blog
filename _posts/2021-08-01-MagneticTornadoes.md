@@ -27,6 +27,6 @@ When you put water in your freezer, it doesn’t suddenly turn to ice once it hi
 
 
 
-(Based on: Weak crystallization of fluctuating Skyrmion textures in MnSi, J. Kindervater et al., Phys. Rev. X 9, 041059 (2019), https://journals.aps.org/prx/pdf/10.1103/PhysRevX.9.041059)
+Based on: Weak crystallization of fluctuating Skyrmion textures in MnSi, J. Kindervater et al., [Phys. Rev. X 9, 041059 (2019)](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.9.041059)
 
 
