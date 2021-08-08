@@ -7,7 +7,7 @@ author: Johanna K. Jochum  # default is Johanna K. Jochum
 tags: [Magnetism, Neutron Scattering]  
 # date is in the filename!!
 ---
-Researchers from the MLZ in Munich found that the mysterious magnetic structures called “Skyrmions” crystallize in a similar manner to water ice.
+*Researchers from the [MLZ](https://mlz-garching.de/) in Munich found that the mysterious magnetic structures called “Skyrmions” crystallize in a similar manner to water ice.*
 
 Skyrmions are magnetic vortices that can form a regular sixfold pattern, called a Skyrmion lattice, and have the potential to become the building blocks for new devices used in unconventional computing. 
 
