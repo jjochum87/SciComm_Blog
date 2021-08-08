@@ -4,7 +4,7 @@ title:  "Magnetic tornadoes behave like water ice"
 category: "blog"
 post_image: "/assets/images/magnetic_tornadoes.png"  # ideally 1400*933 or 900*600 ar another 3:2 ratio
 author: Johanna K. Jochum  # default is Johanna K. Jochum
-tags: [sciencemag, quantum computing]  
+tags: [Magnetism, Neutron Scattering]  
 # date is in the filename!!
 ---
 Researchers from the MLZ in Munich found that the mysterious magnetic structures called “Skyrmions” crystallize in a similar manner to water ice.

@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "About Electricity"
+title:  "Electricity"
 category: "basics"
 post_image: "/assets/images/welcome.jpg"
+author: Daniel Chrastina
 tags: electricity
 ---
-There was a point in time where I couldn’t afford to pay my electricity bills
-
-*Those were darkest days of my life.*
+Danny said he might write a basics post for electricity
