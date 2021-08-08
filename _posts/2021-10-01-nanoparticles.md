@@ -17,7 +17,6 @@ Until very recently, it was believed that the heating properties of MNPs depend 
 But the team of Prof. Vejpravová found that this only holds true for the initial heating phase.  After that,  the effect of temperature on the magnetic properties of MNPs becomes more complex and is not fully understood yet. 
 
 A possible reason for this, according to the researchers, could be the competition between the two different heating processes that occur inside the particles. Heat is released through the motion of the entire particle (Brownian mechanism) and through the motion of the macrospin alone (Néel mechanism). These two mechanisms are occurring at the same time and fight for dominance. Which of them “wins” depends on the magnetic properties, size and coating of the MNPs as well as the temperature and magnetic field strength. 
-The team made this surprising discovery while studying the size and coating dependence of CoFe2O4 MNPs with high-resolution TEM, SQUID magnetometry and differential thermal analysis.
 
 Based on: [Thermal Traits of MNPs under High-Frequency Magnetic Fields: Disentangling the Effect of Size and Coating](https://www.mdpi.com/2079-4991/11/3/797/htm).
 
