@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Yu-Shiba-Rusinov bands"
+title:  "Yu-Shiba-Rusinov bands in ferromagnetic superconducting diamond"
 category: "blog"
 post_image: "/assets/images/bands.png"
 author: Johanna Jochum
-tags: [sciencemag, quantum computing]
+tags: [magnetism, superconductivity, quantum computing]
 ---
 
 Not just any subatomic particle can be used as a qubit in quantum computers. A robust quantum system needs to be protected from unnecessary interactions. One candidate for such a system are localized Yu-Shiba-Rusinov (YSR) states, which can exist within the energy gap of conventional superconductors. Delocalized Yu-Shiba-Rusinov states, however, may offer new ways to remotely couple magnetic systems.
@@ -65,4 +65,6 @@ And while quantum computers may not replace the computers we have in our homes, 
 
 Prof. Zhang and his collaborators discovered delocalized YSR states within the superconducting gap of diamond thin films that extend over several tens of nanometers forming YSR bands. This spread of the YSR states has never been observed before, and opens the route towards new devices in which magnetic systems can be remotely coupled.
 
-You can read all about this in detail [here](https://advances.sciencemag.org/content/6/20/eaaz2536).
+Based on: [Yu-Shiba-Rusinov bands in ferromagnetic superconducting diamond](https://advances.sciencemag.org/content/6/20/eaaz2536).
+
+This was published similarly [here](https://sciencex.com/news/2020-09-delocalized-states-superconducting-gap.html)
