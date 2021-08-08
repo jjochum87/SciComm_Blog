@@ -19,15 +19,17 @@ During the growth of the diamond films, small amounts of boron are mixed in with
 
 Diamond in its purest form is an electrical insulator, unable to carry any current. Increasing the amount of boron changes its colour from clear to light blue, and the insulator into a semiconductor. Adding more boron will turn the diamond film brightly blue, making it metallic. When even more boron is added the film turns pitch black.
 
+
 ### Ferromagnetism and superconductivity – two mutually antagonistic states (?)
 
-Prof. Zhang and his collaborators have found [previously](https://pubs.acs.org/doi/abs/10.1021/acsnano.7b01688) that such black diamond films are on the one hand ferromagnetic, similar to the well known magnets iron, nickel and cobalt. On the other hand, when cooling these thin diamond films to very low temperatures, they even become superconducting.
+The scientists have found [previously](https://pubs.acs.org/doi/abs/10.1021/acsnano.7b01688) that such black diamond films are on the one hand ferromagnetic, similar to the well known magnets iron, nickel and cobalt. On the other hand, when cooling these thin diamond films to very low temperatures, they even become superconducting.
 
 Superconductivity is a state of matter in which a material can transport current without losses across a very large distance. Furthermore, superconductors are perfect diamagnets. This means that they expel all magnetic fields. This is a phenomenon that is taken advantage of with the MagLev trains, where trains containing superconducting ceramics are floating above magnetic tracks. How this works, is shown for example [here](https://www.youtube.com/watch?v=EbORQVttbeU).
 
 Ferromagnetism and superconductivity are not usually found in the same material. Those few materials that do show both effects are therefore even more interesting to study.
 
 Recently, Prof. Zhang and his collaborators found long Yu-Shiba-Rusinov bands inside their thin diamond films, which no one had observed before. To explain what Yu-Shiba-Rusinov bands are and why this is a great discovery, we need to take a look at the term “density of states” that is widely used in solid state physics:
+
 
 ### The density of states
 
@@ -50,6 +52,7 @@ After pairing up nicely, the electrons do not really care anymore about being un
 So there are now a large amount of energies that the electrons do not want to take up while they are nicely paired up. 
 
 And this leads to a big “gap” in the “density of states”. 
+
 
 ### Yu-Shiba Rusinov bands
 
