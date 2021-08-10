@@ -3,7 +3,7 @@ layout: post
 title:  "Writing simply… (pt. 1)"
 category: "blog"
 author: Johanna Jochum
-tags: 'neutron scattering'
+tags: [neutron scattering]
 post_image: "/assets/images/reseda1000.png"
 ---
 I have recently tried to describe the instrument I work at using the 1000 most common words in the English language (using this [editor](https://splasho.com/upgoer5/ )) and I learned the following things:
