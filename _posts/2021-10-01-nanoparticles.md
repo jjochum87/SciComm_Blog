@@ -20,4 +20,4 @@ A possible reason for this, according to the researchers, could be the competiti
 
 Based on: [Thermal Traits of MNPs under High-Frequency Magnetic Fields: Disentangling the Effect of Size and Coating](https://www.mdpi.com/2079-4991/11/3/797/htm).
 
-A similar article has been published on the [MGML webpage](https://mgml.eu/news/2021/nanoparticle-heating)
+This article has been published similarly on the [MGML webpage](https://mgml.eu/news/2021/nanoparticle-heating)
