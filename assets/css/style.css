@@ -817,8 +817,11 @@ ul.social-icon {
 .google {
     background: #DC4A3D;
 }
+.copy {
+    background: #a639b4;
+}
 .social-icon a:hover {
-    background: #424242;
+    background: #919191;
     color: #FFFFFF;
 }
 .icon-button {

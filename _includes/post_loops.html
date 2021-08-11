@@ -39,17 +39,7 @@
                             <a href="{{ site.baseurl }}{{ post.url }}" class="themeix-btn themeix-danger">read more</a>
                         </div>
                     </div>
-                    <div class="share-icon">
-                        <span>share on</span>
-                        <ul class="social-icon">
-                          <li>
-                             <a href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" class="sharebutton twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-                          </li>
-                          <li>
-                             <a href="https://facebook.com/sharer.php?u={{ post.url }}{{ page.url }}" class="sharebutton facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-                          </li>  
-                        </ul>
-                    </div>
+                    {% include sharer.html url=post.url title=post.title %}
                 </div>
             </div>
         </div>
