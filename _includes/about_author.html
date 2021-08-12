@@ -1,17 +1,18 @@
+{% assign aid = page.author | default: "jkj" %}
+{% assign author = site.data.authors[aid] %}
 <div class="author-box">
     <div class="author-img">
-        {% if site.data.authors.author_one.image %}
-         <img src="{{ site.data.authors.author_one.image }}" alt="Author image" />
+        {% if author.image %}
+         <img src="{{ author.image }}" alt="Author image" />
         {% else %}
-         <img src="/assets/images/default-user-image.jpg" alt="Author image" />
+         <img src="/assets/images/default_user.png" alt="Author image" />
         {% endif %} 
     </div>
     <div class="author-details">
         <div class="author-name">
-            <h4 class="john">{{site.data.authors.author_one.name}}</h4>
-            <ul class="author-link">
-            </ul>
+            <h4 class="john">{{author.name}}</h4>
+            <ul class="author-link"><a href="{{author.web}}">web</a></ul>
         </div>
-        <p class="author-bio">{{ site.data.authors.author_one.bio }}</p>
+        <p class="author-bio">{{ author.bio }}</p>
     </div>
 </div>

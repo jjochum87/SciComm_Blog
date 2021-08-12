@@ -3,7 +3,6 @@ layout: post
 title:  "Complex heating behaviour of magnetic nanoparticles"
 category: "blog"
 post_image: "/assets/images/nanoparticle.png" 
-author: Johanna K. Jochum  
 tags: [magnetism, ]  
 ---
 *Scientists found that the heating process with magnetic nanoparticles  is much more complex than was initially thought.*

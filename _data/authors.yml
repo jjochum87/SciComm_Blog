@@ -1,8 +1,11 @@
 # Author details.
 
-author_one:
-    name: Johanna Jochum
-    web: http://twitter.com/sirrawlins
+jkj:
+    name: Johanna K. Jochum
+    web: /about
     bio: Austrian 🇦🇹 mountain girl 🏔️ PhD in physics 👩‍🔬 @ETH and @KU_Leuven alumna 👩‍🎓 Instrument scientist @RESEDA_MLZ 👩‍🔬
     image: https://pbs.twimg.com/profile_images/1313776591328153600/qRJgmuAh_400x400.jpg
-  
+pc:
+    name: Petr Čermák
+    web: https://cermak.science/
+    bio: Lorem ipsum bio

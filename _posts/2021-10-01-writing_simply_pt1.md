@@ -2,7 +2,6 @@
 layout: post
 title:  "Writing simply… (pt. 1)"
 category: "blog"
-author: Johanna Jochum
 tags: [neutron scattering]
 post_image: "/assets/images/reseda1000.png"
 ---

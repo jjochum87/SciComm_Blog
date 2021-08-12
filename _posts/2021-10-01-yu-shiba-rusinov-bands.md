@@ -3,7 +3,6 @@ layout: post
 title:  "Yu-Shiba-Rusinov bands in ferromagnetic superconducting diamond"
 category: "blog"
 post_image: "/assets/images/bands.png"
-author: Johanna Jochum
 tags: [magnetism, superconductivity, quantum computing]
 ---
 

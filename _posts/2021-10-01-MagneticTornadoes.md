@@ -3,7 +3,6 @@ layout: post
 title:  "Magnetic tornadoes behave like water ice"
 category: "blog"
 post_image: "/assets/images/magnetic_tornadoes.png"  # ideally 1400*933 or 900*600 ar another 3:2 ratio
-author: Johanna K. Jochum  # default is Johanna K. Jochum
 tags: [magnetism, neutron scattering]  
 # date is in the filename!!
 ---
